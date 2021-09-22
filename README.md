@@ -15,13 +15,9 @@ I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchai
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-![Solidity]()
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 #### Frameworks/Systems
@@ -39,17 +35,18 @@ I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchai
 
 
 #### Blockchain
-![Web3]()
+![Solidity](https://img.shields.io/badge/Solidity-007ACC?style=for-the-badge&logo=solidity&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin_core-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Truffle]()
-![RemixIDE]()
-![Docker]()
+![Web3.js](https://img.shields.io/badge/web3.js-7a7c80?style=for-the-badge&logo=metamask&logoColor=white)
+![Truffle](https://img.shields.io/badge/Truffle-80311D?style=for-the-badge&logo=truffle&logoColor=white)
+![RemixIDE](https://img.shields.io/badge/Remix_IDE-284ebf?style=for-the-badge&logo=remix&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-1572B6?style=for-the-badge&logo=docker&logoColor=white)
 
 #### Agile software development
-![Kanban]()
-![Scrum]()
-![Jira]()
-![Trello]()
+![Kanban](https://img.shields.io/badge/Kanban-0D597F?style=for-the-badge&logo=scrum&logoColor=white)
+![Scrum](https://img.shields.io/badge/scrum-1DA1F2?style=for-the-badge&logo=scrum&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-1877F2?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-330F63?style=for-the-badge&logo=trello&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 
