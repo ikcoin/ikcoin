@@ -8,6 +8,10 @@ I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchai
 - ☕ Addicted to (good) Coffee, V60 is my daily driver. 
 - ⌨️ I'm a Mechanical Keyboard enthusiast, I love the ergonomic Alice layout and I enjoy contributing to the community with projects like [this one](https://github.com/ikcoin/IkCase). 
 
+<a href="https://www.linkedin.com/in/bernat-marcilla-jimenez-09040019a/">
+  <img align="left" alt="Bernat's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 <!--
 
 ## Skills
