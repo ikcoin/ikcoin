@@ -13,7 +13,7 @@ I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchai
   <img align="left" alt="Bernat's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:bernatmj99w@gmail.com">
-  <img align="left" alt="Bernat's LinkedIN" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1.png" />
+  <img align="left" alt="Bernat's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" />
 </a>
 <a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4?si=GDKWAioMTwiJ7xqfCa7Tsw&dl_branch=1">
   <img align="left" alt="Drizzy's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
