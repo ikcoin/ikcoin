@@ -8,6 +8,7 @@ I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchai
 - ☕ Addicted to (good) Coffee, V60 is my daily driver. 
 - ⌨️ I'm a Mechanical Keyboard enthusiast, I love the ergonomic Alice layout and I enjoy contributing to the community with projects like [this one](https://github.com/ikcoin/IkCase). 
 
+<!--
 
 ## Skills
 ### Coding Languages
@@ -49,3 +50,4 @@ I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchai
 ![Trello](https://img.shields.io/badge/Trello-330F63?style=for-the-badge&logo=trello&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
 
+-->
