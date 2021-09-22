@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchain Developer, who is passionate about 🔗 ₿lockchain Technology 🔗 and ⚡ Distributed Ledgers ⚡. 
 
@@ -9,8 +9,8 @@ I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchai
 - ⌨️ I'm a Mechanical Keyboard enthusiast, I love the ergonomic Alice layout and I enjoy contributing to the community with projects like [this one](https://github.com/ikcoin/IkCase). 
 
 
-### Skills
-#### Coding Languages
+## Skills
+### Coding Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -20,7 +20,7 @@ I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchai
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-#### Frameworks/Systems
+### Frameworks/Systems
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -34,7 +34,7 @@ I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchai
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 
-#### Blockchain
+### Blockchain
 ![Solidity](https://img.shields.io/badge/Solidity-007ACC?style=for-the-badge&logo=solidity&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin_core-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/web3.js-7a7c80?style=for-the-badge&logo=metamask&logoColor=white)
@@ -42,22 +42,10 @@ I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchai
 ![RemixIDE](https://img.shields.io/badge/Remix_IDE-284ebf?style=for-the-badge&logo=remix&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-1572B6?style=for-the-badge&logo=docker&logoColor=white)
 
-#### Agile software development
+### Agile software development
 ![Kanban](https://img.shields.io/badge/Kanban-0D597F?style=for-the-badge&logo=scrum&logoColor=white)
 ![Scrum](https://img.shields.io/badge/scrum-1DA1F2?style=for-the-badge&logo=scrum&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-1877F2?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-330F63?style=for-the-badge&logo=trello&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
