@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchain Developer, who is passionate about 🔗 ₿lockchain Technology 🔗 and ⚡ Distributed Ledgers ⚡. 
 
@@ -8,8 +8,15 @@ I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchai
 - ☕ Addicted to (good) Coffee, V60 is my daily driver. 
 - ⌨️ I'm a Mechanical Keyboard enthusiast, I love the ergonomic Alice layout and I enjoy contributing to the community with projects like [this one](https://github.com/ikcoin/IkCase). 
 
+## Reach me at
 <a href="https://www.linkedin.com/in/bernat-marcilla-jimenez-09040019a/">
   <img align="left" alt="Bernat's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="mailto:bernatmj99w@gmail.com">
+  <img align="left" alt="Bernat's LinkedIN" width="22px" src="https://1000marcas.net/wp-content/uploads/2019/11/logo-Gmail-1.png" />
+</a>
+<a href="https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4?si=GDKWAioMTwiJ7xqfCa7Tsw&dl_branch=1">
+  <img align="left" alt="Drizzy's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
 <!--
