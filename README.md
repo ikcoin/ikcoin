@@ -14,7 +14,7 @@ I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchai
 </a>
 
 <a href="mailto:bernatmj99w@gmail.com">
-  <img align="left" alt="Bernat's LinkedIN" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" />
+  <img align="left" alt="Bernat's mail" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" />
 </a>
 
 <a href="https://discord.com/users/411523510725509130">
