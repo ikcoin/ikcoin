@@ -6,7 +6,7 @@ I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchai
 - 🖇 I enjoy participating in new DeFi projects to test new blockchain networks and providing liquidity in decentralized exchanges.
 - 😚 One of the projects I am most proud of is my final degree project, which was [A Decentralized Exchange (DEX) Vue dApp demo on the RSK blockchain with basic functionalities such as Add Liquidity and Swap ERC20 tokens](https://github.com/ikcoin/tfg-rsk-swap)
 - ☕ Addicted to (good) Coffee, V60 is my daily driver. 
-- ⌨️ I'm a Mechanical Keyboard enthusiast, I love the ergonomic Alice layout and I enjoy contributing to the community with projects like [this one](https://github.com/ikcoin/IkCase) or [this one](https://github.com/ikcoin/IkCase-hhkb). 
+- ⌨️ I'm a Mechanical Keyboard enthusiast, I love the ergonomic Alice layout and I enjoy contributing to the community with projects like this [45% Alice Acrylic Case](https://github.com/ikcoin/IkCase) or this [HHKB Acrylic Case](https://github.com/ikcoin/IkCase-hhkb). 
 
 ### Reach me at
 <a href="https://www.linkedin.com/in/bernat-marcilla-jimenez-09040019a/">
