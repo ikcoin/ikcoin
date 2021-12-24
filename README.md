@@ -10,7 +10,11 @@ I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchai
 
 #### Buy me a coffee with bitcoin
 
-[https://img.shields.io/badge/1kcoinFLNZDfqNtM4wi5RT84YMSCRQdwf-14354C?style=flat&logo=bitcoin](https://blockstream.info/address/1kcoinFLNZDfqNtM4wi5RT84YMSCRQdwf)
+<a href="https://blockstream.info/address/1kcoinFLNZDfqNtM4wi5RT84YMSCRQdwf">
+  <img align="left" width="22px" src="https://img.shields.io/badge/1kcoinFLNZDfqNtM4wi5RT84YMSCRQdwf-14354C?style=flat&logo=bitcoin" />
+</a>
+
+<!-- [https://img.shields.io/badge/1kcoinFLNZDfqNtM4wi5RT84YMSCRQdwf-14354C?style=flat&logo=bitcoin](https://blockstream.info/address/1kcoinFLNZDfqNtM4wi5RT84YMSCRQdwf) -->
 
 ### Reach me at
 <a href="https://www.linkedin.com/in/bernat-marcilla-jimenez-09040019a/">
