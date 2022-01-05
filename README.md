@@ -21,6 +21,8 @@ I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchai
   <img align="left" alt="Bernat's mail" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1200px-Gmail_icon_%282020%29.svg.png" />
 </a>
 
+<!--
+
 <a href="https://discord.com/users/411523510725509130">
   <img align="left" alt="Ikcoin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -29,7 +31,7 @@ I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchai
   <img align="left" alt="Drizzy's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-<!--
+
 
 ## Skills
 ### Coding Languages
