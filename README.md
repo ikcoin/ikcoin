@@ -2,7 +2,7 @@
 
 I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchain Security Engineer, who is passionate about ₿lockchain Technology 🔗 and Cybersecurity. 
 
-- 🚀 I’m currently working on a timestamp project using Bitcoin & Ethereum Blockchains. 
+- 🔒 I’m currently working on Blockchain Intrusion Prevention System development. 
 - 🖇 I enjoy participating in new DeFi projects to test new blockchain networks and providing liquidity in decentralized exchanges.
 - 😚 One of the projects I am most proud of is my final degree project, which was [A Decentralized Exchange (DEX) Vue dApp demo on the RSK blockchain with basic functionalities such as Add Liquidity and Swap ERC20 tokens](https://github.com/ikcoin/tfg-rsk-swap)
 - ☕ Addicted to (good) Coffee, V60 is my daily driver method. 
