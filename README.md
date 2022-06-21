@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there! 👋
 
 I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchain Security Engineer, who is passionate about ₿lockchain Technology 🔗 and Cybersecurity. 
 
