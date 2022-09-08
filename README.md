@@ -13,7 +13,7 @@ I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchai
 ![bitcoin-address](https://img.shields.io/badge/1kcoinFLNZDfqNtM4wi5RT84YMSCRQdwf-14354C?style=flat&logo=bitcoin)
 
 ### Reach me at
-<a href="https://www.linkedin.com/in/bernat-marcilla-jimenez-09040019a/">
+<a href="https://www.linkedin.com/in/bernat-marcilla/">
   <img align="left" alt="Bernat's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
