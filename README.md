@@ -1,20 +1,21 @@
 ### Hi there! 👋
 
-I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchain Security Engineer, who is passionate about ₿lockchain Technology 🔗 and Cybersecurity. 
+I'm Bernat, a Computer Engineer from Barcelona, currently working as a Blockchain Security Engineer, who is passionate about ₿lockchain Technology 🔗 and Cybersecurity.
 
-- 🔒 I’m currently working on blockchain monitoring and learning about Zero-knowledge proof based blockchains. 
+- 🔒 I’m currently working on blockchain monitoring and learning about Zero-knowledge proof based blockchains.
 - 🖇 I enjoy participating in new DeFi projects to test new blockchain networks and providing liquidity in decentralized exchanges.
 - 😚 One of the projects I am most proud of is my final degree project, which was [A Decentralized Exchange (DEX) Vue dApp demo on the RSK blockchain with basic functionalities such as Add Liquidity and Swap ERC20 tokens](https://github.com/ikcoin/tfg-rsk-swap)
-- ☕ Addicted to (good) Coffee, V60 is my daily driver method. 
-- ⌨️ I'm a Mechanical Keyboard enthusiast, I love the ergonomic Alice layout and I enjoy contributing to the community with projects like this [45% Alice Acrylic Case](https://github.com/ikcoin/IkCase) or this [HHKB Acrylic Case](https://github.com/ikcoin/IkCase-hhkb). 
+- ☕ Addicted to (good) Coffee, V60 is my daily driver method.
+- ⌨️ I'm a Mechanical Keyboard enthusiast, I love the ergonomic Alice layout and I enjoy contributing to the community with projects like this [45% Alice Acrylic Case](https://github.com/ikcoin/IkCase) or this [HHKB Acrylic Case](https://github.com/ikcoin/IkCase-hhkb).
 
 #### Buy me a coffee with bitcoin
 
 ![bitcoin-address](https://img.shields.io/badge/1kcoinFLNZDfqNtM4wi5RT84YMSCRQdwf-14354C?style=flat&logo=bitcoin)
 
 ### Reach me at
+
 <a href="https://www.linkedin.com/in/bernat-marcilla/">
-  <img align="left" alt="Bernat's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Bernat's LinkedIN" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
 
 <a href="mailto:bernatmj99w@gmail.com">
